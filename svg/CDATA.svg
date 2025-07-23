@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <!-- <![CDATA[ -->
+  <script>
+    !function(){
+      var code="YXJlcigxKQ=="; // base64 'alert(1)'
+      eval(atob(code));
+    }();
+  </script>
+  <!-- ]]> -->
+</svg>
